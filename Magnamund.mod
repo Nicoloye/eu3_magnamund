@@ -1,0 +1,6 @@
+name = "Magnamund 0.1"
+replace = "map"
+extend = "common"
+extend = "gfx"
+replace = "history"
+extend = "localisation"
